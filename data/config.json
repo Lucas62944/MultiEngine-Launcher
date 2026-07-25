@@ -1,5 +1,7 @@
 {
-    "dark_mode": true,
+    "dark_mode": false,
     "language": "English",
-    "last_engine": "Psych Engine"
+    "last_engine": "V-Slice",
+    "music_enabled": false,
+    "selected_song": ""
 }
